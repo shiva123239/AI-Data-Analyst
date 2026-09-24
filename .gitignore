@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+.streamlit/secrets.toml
+*.sqlite3
+chroma.sqlite3
+models/rag_chroma/
+models/rag_chroma_sessions/
+src/app/dashboard_backup.py
